@@ -13,5 +13,3 @@ The control mechanism of this is being provided by http session. Since the test 
 
 
 
-
-![alt text](https://cdn-icons.flaticon.com/png/512/2990/premium/2990159.png "Logo Title Text 1")
