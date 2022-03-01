@@ -14,4 +14,18 @@ The control mechanism of that flow is being provided by http session. Since the 
 During your visit, may be If you need to reset the test results; you can use the **/flush** endpoint. 
 
 
+---
+
+Languages & Frameworks in the APP
+
+<dl>
+  <dd>PHP 8</dd>
+  <dd>Laravel 9</dd>
+  <dd>JS, jQuery</dd>
+  <dd>HTML5, CSS3</dd>
+  <dd>Bootstrap 5</dd>
+</dl>
+
+
+
 
