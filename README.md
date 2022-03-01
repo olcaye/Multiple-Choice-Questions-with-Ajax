@@ -18,7 +18,7 @@ During your visit, may be If you need to reset the test results; you can use the
 
 Languages & Frameworks in the APP
 
-PHP, Laravel, Javascript, Jquery, Html, Css, Bootstrap
++ PHP, Laravel, Javascript, Jquery, Html, Css, Bootstrap
 
 
 
