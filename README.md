@@ -16,14 +16,10 @@ During your visit, may be If you need to reset the test results; you can use the
 
 ---
 
-<dl>
-  <dt>Languages & Frameworks in the APP</dt>
-  <dd>PHP 8</dd>
-  <dd>Laravel 9</dd>
-  <dd>JS, jQuery</dd>
-  <dd>HTML5, CSS3</dd>
-  <dd>Bootstrap 5</dd>
-</dl>
+Languages & Frameworks in the APP
+
+PHP, Laravel, Javascript, Jquery, Html, Css, Bootstrap
+
 
 
 
