@@ -9,7 +9,7 @@ Each user can attend to any test just once. After the test is completed, the app
 The control mechanism of this is being provided by http session. Since the test results are being kept in the http session, there is no need to register for taking any test. However, because of data is kept in session; that data is not persistent really. Some behaviours such as browsing in private, using different device etc. will cause the breaking the control mechanism.
 
 
-##[Click Here to View The Application on Live](http://ec2-34-245-204-97.eu-west-1.compute.amazonaws.com/survival/public/)
+[##Click Here to View The Application on Live](http://ec2-34-245-204-97.eu-west-1.compute.amazonaws.com/survival/public/)
 
 
 
